@@ -4,7 +4,7 @@
 
 #include <jni.h>
 #include <stdio.h>
-#include <opencv2/core.hpp>
+#include <opencv2/opencv.hpp>
 
 #ifdef __cplusplus
 extern "C" {

@@ -1,2 +1,4 @@
 libs/
 obj/
+ndk/
+android-ndk-r16b-darwin-x86_64.zip
